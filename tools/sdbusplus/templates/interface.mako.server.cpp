@@ -3,6 +3,7 @@
 #include <sdbusplus/sdbus.hpp>
 #include <sdbusplus/server.hpp>
 #include <sdbusplus/exception.hpp>
+#include <stdexcept>
 #include <string>
 #include <tuple>
 #include <variant>
